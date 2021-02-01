@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Freelance</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/freelancestyles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div id="wrapper">Content for  id "wrapper" Goes Here</div>
+
+
+
+</body>
+</html>

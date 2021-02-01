@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+    background-color: #EF2F33;
+}
+#wrapper {
+    background-color: #FFFFFF;
+    margin: auto;
+    width: 1200px;
+}
