@@ -14,8 +14,14 @@
 <body>
 <div id="wrapper">
 <div id="banner">Content for  id "banner" Goes Here</div>
-<div id="nav">Content for  id "nav" Goes Here</div>
-<div id="content">Content for  id "content" Goes Here</div>
+<div id="nav"> Home | <a href="../about.html">About</a> | <a href="../services.html">Services</a> | Contact Us</div>
+	
+<div id="content">
+	<!-- TemplateBeginEditable name="Content" -->
+		
+ 	<p>Content for  id "content" Goes Here</p>
+	<!-- TemplateEndEditable -->
+</div>
 	
 	
 	
