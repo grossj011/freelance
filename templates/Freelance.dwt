@@ -12,20 +12,23 @@
 </head>
 
 <body>
-<div id="wrapper">
-<div id="banner">Content for  id "banner" Goes Here</div>
-<div id="nav"> Home | <a href="../about.html">About</a> | <a href="../services.html">Services</a> | Contact Us</div>
-	
-<div id="content">
-	<!-- TemplateBeginEditable name="Content" -->
-		
- 	<p>Content for  id "content" Goes Here</p>
-	<!-- TemplateEndEditable -->
+<div id="wrapper"></div>
+<div id="banner"></div>
+<img src="../images/Artistic Styles.png" width="1200" height="200" alt=""/>
+<div id="nav">
+  <p><a href="../index.html">Home</a> | <a href="../about.html">About</a> | <a href="../services.html">Services</a> | <a href="../contact.html">Contact Us</a></p>
 </div>
 	
+<div id="content"><!-- TemplateBeginEditable name="Content" -->
+  <p>&nbsp;</p>
+  <!-- TemplateEndEditable -->
+  <p><br>
+  </p>
+ 
+</div>
+		
 	
 	
-<div>
 
 
 

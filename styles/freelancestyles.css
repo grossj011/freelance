@@ -1,6 +1,9 @@
 @charset "utf-8";
 body {
     background-color: #EF2F33;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
 #wrapper {
     background-color: #FFFFFF;
@@ -10,12 +13,30 @@ body {
 #banner {
     background-color: #DD8B8D;
     height: 100px;
+	width: 1200px;
 }
 #nav {
     background-color: #BA83FF;
     height: 50px;
+    text-align: center;
+    width: 1200px;
 }
 #content {
     background-color: #FFFFFF;
     min-height: 400px;
+    width: 1200px;
+    text-align: center;
+}
+#businessman {
+    float: right;
+    text-align: left;
+
+}
+map {
+    float: right;
+    clear: right;
+}
+sale {
+
+
 }
